@@ -1,0 +1,8 @@
+html {
+	font-size: 80% !important;
+}
+
+pre.literal-block, pre.doctest-block {
+	background-color: #EEE !important;
+	font-size: 50% !important;
+}
